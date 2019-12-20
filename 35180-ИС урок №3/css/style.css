@@ -1,0 +1,26 @@
+* {
+	color:green;
+}
+#container p{
+	color:black!important;
+}
+#IMP-TEST {
+	color:orange;
+	font-weight:bold;
+	font-style:italic;
+	font-size:2em;
+	font-size:small;
+	font-size:large;
+}
+.link-test {
+	color:red;
+	text-decoration: none;
+}
+.link-test:hover {
+	color:black;
+	text-decoration:underline;
+}
+.link-test:visited {
+	color:violet;
+	text-decoration:underline;
+}
